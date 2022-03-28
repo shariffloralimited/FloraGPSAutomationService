@@ -1,0 +1,20 @@
+G:\11024\Last\RTGS\DRIVE UPLOAD\FloraBP\GPS\FloraGPSAutomationService.exe.config
+G:\11024\Last\RTGS\DRIVE UPLOAD\FloraBP\GPS\FloraGPSAutomationService.exe
+G:\11024\Last\RTGS\DRIVE UPLOAD\FloraBP\GPS\FloraGPSAutomationService.pdb
+G:\11024\Last\RTGS\DRIVE UPLOAD\HSBC\FloraGPSAutomationService\bin\FloraGPSAutomationService.exe.config
+G:\11024\Last\RTGS\DRIVE UPLOAD\HSBC\FloraGPSAutomationService\bin\FloraGPSAutomationService.exe
+G:\11024\Last\RTGS\DRIVE UPLOAD\HSBC\FloraGPSAutomationService\bin\FloraGPSAutomationService.pdb
+G:\11024\Last\RTGS\DRIVE UPLOAD\HSBC\FloraGPSAutomationService\obj\Debug\FloraSoft.FloraGPSAutomationService.resources
+G:\11024\Last\RTGS\DRIVE UPLOAD\HSBC\FloraGPSAutomationService\obj\Debug\FloraSoft.ProjectInstaller.resources
+G:\11024\Last\RTGS\DRIVE UPLOAD\HSBC\FloraGPSAutomationService\obj\Debug\FloraGPSAutomationService.csproj.GenerateResource.Cache
+G:\11024\Last\RTGS\DRIVE UPLOAD\HSBC\FloraGPSAutomationService\obj\Debug\FloraGPSAutomationService.exe
+G:\11024\Last\RTGS\DRIVE UPLOAD\HSBC\FloraGPSAutomationService\obj\Debug\FloraGPSAutomationService.pdb
+G:\Sir\FloraGPSAutomationService\bin\FloraGPSAutomationService.exe.config
+G:\Sir\FloraGPSAutomationService\obj\Debug\FloraGPSAutomationService.exe
+G:\Sir\FloraGPSAutomationService\obj\Debug\FloraGPSAutomationService.pdb
+G:\Sir\FloraGPSAutomationService\bin\FloraGPSAutomationService.exe
+G:\Sir\FloraGPSAutomationService\bin\FloraGPSAutomationService.pdb
+G:\Sir\FloraGPSAutomationService\obj\Debug\FloraGPSAutomationService.csprojResolveAssemblyReference.cache
+G:\Sir\FloraGPSAutomationService\obj\Debug\FloraSoft.FloraGPSAutomationService.resources
+G:\Sir\FloraGPSAutomationService\obj\Debug\FloraSoft.ProjectInstaller.resources
+G:\Sir\FloraGPSAutomationService\obj\Debug\FloraGPSAutomationService.csproj.GenerateResource.Cache
